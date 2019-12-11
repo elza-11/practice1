@@ -1,0 +1,173 @@
+@charset "windows-1251";
+
+body {
+
+ background-color: #FFFACD;
+
+}
+
+
+
+h1 { 
+
+    font-family: Arial, Helvetica, Verdana, sans-serif; /* Гарнитура шрифта */ 
+
+    font-size: 250%; /* Размер текста */ 
+
+    font-weight: lighter; /* Светлое начертание */
+
+    text-align: center;
+
+   }
+
+
+
+p {
+
+  text-align: justify;
+
+  line-height: line-height: 500%;
+
+  font-size: 20px;
+
+  }
+
+
+
+.container4 {
+
+    height: 10em;
+
+    position: relative }
+
+.container4 p {
+
+    margin: 0;
+
+
+
+    position: absolute;
+
+    top: 180%;
+
+    left: 50%;
+
+  
+
+    transform: translate(-50%, -50%) }
+
+
+
+.container1 {
+
+    height: 10em;
+
+    position: relative }
+
+.container1 p {
+
+    margin: 0;
+
+
+
+    position: absolute;
+
+    top: 80%;
+
+    left: 50%;
+
+    transform: translate(-50%, -50%) }
+
+
+
+
+
+.container3 {
+
+    height: 10em;
+
+    position: relative }
+
+.container3 p {
+
+    margin: 0;
+
+    position: absolute;
+
+    top: 100%;
+
+    left: 50%;
+
+  
+
+    transform: translate(-50%, -50%) }
+
+
+
+.knopka1{
+
+    height: 10em;
+
+    position: relative 
+
+}
+
+.knopka1{
+
+    margin: 0;
+
+    position: absolute;
+
+    top: 75%;
+
+    left:70%;
+
+    transform: translate(-50%, -50%) }
+
+
+
+
+
+.knopka2{
+
+    height: 10em;
+
+    position: relative 
+
+}
+
+.knopka2{
+
+    margin: 0;
+
+    position: absolute;
+
+    top: 130%;
+
+    left:70%;
+
+    transform: translate(-50%, -50%) }
+
+
+
+
+
+.knopka3{
+
+    height: 10em;
+
+    position: relative 
+
+}
+
+.knopka3{
+
+    margin: 0;
+
+    position: absolute;
+
+    top: 95%;
+
+    left:70%;
+
+    transform: translate(-50%, -50%) }
